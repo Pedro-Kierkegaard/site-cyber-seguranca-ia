@@ -1,8 +1,14 @@
-# Site Informativo sobre Cyber Segurança e Inteligência Artificial
+# Site de Cyber Segurança e IA
 
-Este site tem como objetivo informar sobre as práticas de Cyber Segurança e a utilização da Inteligência Artificial (IA) na proteção de dados e informações.
+Este repositório contém um site simples que aborda temas de Cyber Segurança e Inteligência Artificial. O objetivo do site é informar e educar os visitantes sobre a importância da segurança digital e o papel da IA nesse contexto.
 
-## Seções do Site
-- **O que é Cyber Segurança?** - Uma introdução aos conceitos de segurança cibernética.
-- **O papel da IA na Segurança** - Como a IA está revolucionando as práticas de Cyber Segurança.
-- **Projetos Relevantes** - Links para repositórios relevantes no GitHub.
+## Estrutura do Site
+- **index.html**: Página principal do site.
+- **style.css**: Arquivo de estilo que define a aparência visual do site.
+- **script.js**: Script JavaScript para funcionalidades interativas.
+
+## Como Usar
+Você pode acessar o site diretamente através do GitHub Pages ou clonar o repositório e visualizar os arquivos localmente.
+
+## Contato
+Para mais informações, entre em contato pelo e-mail: contato@exemplo.com
